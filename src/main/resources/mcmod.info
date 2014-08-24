@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Circuitry",
+  "name": "Circuitry",
+  "description": "A follow along of Pahimar's Let's Mod Reboot Series.",
+  "version": "1.7.10-1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ryokani"],
+  "credits": "Pahimar for his amazing Let's MOd Reboot Series, Forge Developers for making modding possible and Mojang for making an amazing game!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

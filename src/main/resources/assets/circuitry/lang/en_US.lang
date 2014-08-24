@@ -1,0 +1,9 @@
+item.circuitry:pcb.name=PCB
+item.circuitry:blankPcb.name=Blank PCB
+item.circuitry:ingotCopper.name=Copper Ingot
+item.circuitry:ingotTin.name=Tin Ingot
+
+tile.circuitry:blockCopper.name=Copper Block
+tile.circuitry:blockTin.name=Tin Block
+
+itemGroup.circuitry=Circuitry
